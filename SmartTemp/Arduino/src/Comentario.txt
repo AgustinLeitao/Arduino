@@ -1,0 +1,3 @@
+El proyecto se basa en mostrar la temperatura que mide el sensor tanto por el actuador(lcd display), como por la web.
+Tambien se puede ingresar por la web una temperatura y en base a esa temperatura el display actua diferente, tambien agregamos un led que titila en caso que la temperatura
+medida sea mayor a la ingresada.
